@@ -1,4 +1,6 @@
 # Integral
 Basic Concurrent integral calculator.
 
-WARNING: that's a repository for academic purposes, it may contain errors or bad habits.
+WARNING: this repository is for academic purposes only, it may contain errors or bad habits.
+
+Subject: SCD 2ºGrade, 0º practice.
